@@ -96,7 +96,7 @@ module.exports = {
         { runValidators: true, new: true }
       );
 
-      if (!throwhought) {
+      if (!thought) {
         return res.status(404).json({ message: 'No Thought with this id!' });
       }
 
