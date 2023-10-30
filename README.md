@@ -12,6 +12,7 @@
     This is an api or a social network using users thoughts and reactions.
 ## Installation
     To install you could download the code and run npm i then npm start.
+    link to website https://text-editor-mcg-5c1011001da7.herokuapp.com/
 ## Usage
     It can be used for the backend of any social media site. You can change the words to make it how one pleases.
 ## Credits
